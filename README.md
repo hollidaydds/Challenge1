@@ -1,4 +1,4 @@
-# Challenge 1
+# Challenge 1 (POET Technologies)
 
 ## Overview and Origin
 
@@ -18,9 +18,9 @@
 
 ## Business Activities
 
-* Poet Technologies is address the need for high-speed and low-latency networks using an optical solution that is highly scalable and at the desired cost structure that many AI components and companies require.
+* POET Technologies is address the need for high-speed and low-latency networks using an optical solution that is highly scalable and at the desired cost structure that many AI components and companies require.
 
-* Poet Technologies inteded customer is large datacenters and companies that have their own datacenters and need low latency, scalable solutions, especially for the purposes of AI.
+* POET Technologies inteded customer is large datacenters and companies that have their own datacenters and need low latency, scalable solutions, especially for the purposes of AI.
 
 * POET's Optical Interposer eliminates costly components and labor-intensive assembly, alignment, burn-in and testing methods employed in conventional photonics
 
@@ -30,9 +30,12 @@
   * POET Infinity: A chiplet-based transmitter for 400G, 800G, 1.6T, and more.
   * POET Wavelight: An 800G 2xFR4 transceiver with 8 lanes of electrical input and output channels. It's designed for 800 gigabit ethernet links and operates at 106.25Gbps/channel.
   * POET LightBar: A packaged light source for AI and CPO applications.
+    
+***Don't take my word for it! Here is what some of their customers are saying!***
+> “POET is powering the age of photonics with innovative products that seamlessly integrate into existing networking infrastructure and give developers the ability to build high-speed and low-latency networks using an optical solution that is highly scalable and at the desired cost structure.” — Steve Johansson, Managing Director, AI Breakthrough Awards
+> ‘POET’s hybrid-integration platform technology will enable us to use best-of-breed components and ramp to high volume at a much faster pace and in a cost-efficient manner.’ — Foxconn Interconnect Technology
 
 ## Landscape
-
 * POET Technologies operates in a single segment of design, manufacture, and sale of semiconductor products and services for commercial applications.
 
 * Some major trends in the industry in the last 5 to 10 years have been: <sup>[1](#myfootnote1)</sup>
